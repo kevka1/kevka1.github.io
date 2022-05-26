@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+#container{
+    
+    width:100%;
+    height: 100%;
+    
+}
+
+.header{
+    text-align: center;
+    padding: 10px 0 10px;
+    background-color: rgb(226, 152, 40);
+    border-style:solid;
+}
+
+.main{
+    
+    width:100%;
+    background-color:rgba(216, 148, 45, 0.808);
+}
+
+.tekst h2{
+    padding: 20px 500px 20px;
+    
+    text-decoration-color: black;
+}
+
+.pics{
+    width:100%;
+}
+
+.pic1{
+    float:left;
+    width: 50%;
+}
+
+.pic2{
+    float:right;
+    width: 50%;
+}
+
+.foot{
+    width:100%;
+}
+.pic3{
+    width:100%
+}
+

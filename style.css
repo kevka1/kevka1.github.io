@@ -25,13 +25,16 @@
 }
 
 .tekst h2{
-    padding: 20px 500px 20px;
-    
+    padding: 20px 30px 20px;
+    border-bottom: solid;
+    border-left: solid;
+    border-right: solid;
     text-decoration-color: black;
 }
 
 .pics{
     width:100%;
+    
 }
 
 .pic1{
